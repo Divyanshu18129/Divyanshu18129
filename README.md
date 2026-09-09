@@ -6,17 +6,17 @@
 ---
 
 ### 💻 About Me
-- 🎓 Pursuing B.Tech in Computer Science Engineering at KIPM College of Engineering and Technology (CGPA: 7.87)[span_0](start_span)[span_0](end_span).
-- 🤖 Built predictive models using **Supervised Learning** and automated ML pipelines with **IBM Watson Studio (AutoAI)**[span_1](start_span)[span_1](end_span).
-- 🛠️ Skilled in **Python, Java, C, JavaScript, Data Structures,** and **CS Fundamentals**[span_2](start_span)[span_2](end_span).
-- 🎯 Seeking opportunities in Software Engineering, Machine Learning, and Data Analytics[span_3](start_span)[span_3](end_span).
+- 🎓 Pursuing B.Tech in Computer Science Engineering at KIPM College of Engineering and Technology (CGPA: 7.87).
+- 🤖 Built predictive models using **Supervised Learning** and automated ML pipelines with **IBM Watson Studio (AutoAI).
+- 🛠️ Skilled in **Python, Java, C, JavaScript, Data Structures,** and **CS Fundamentals.
+- 🎯 Seeking opportunities in Software Engineering, Machine Learning, and Data Analytics.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Languages:** Python, Java, C, JavaScript[span_4](start_span)[span_4](end_span)
-- **Domains:** Data Structures, Machine Learning, Data Analytics[span_5](start_span)[span_5](end_span)
-- **Tools & Platforms:** IBM Watson Studio, AutoAI, Git, GitHub[span_6](start_span)[span_6](end_span)
+- **Languages:** Python, Java, C, JavaScript
+- **Domains:** Data Structures, Machine Learning, Data Analytics
+- **Tools & Platforms:** IBM Watson Studio, AutoAI, Git, GitHub
 
 ---
 
