@@ -1,6 +1,35 @@
 # 💫 About Me:
-Data Analytics project, focusing on NLP and text classification to derive customer insights.
+# Hi there, I'm Divyanshu Sharma 👋
 
+🚀 **Computer Science Engineering Student** passionate about Data Science, Machine Learning, and Software Development.
+
+---
+
+### 💻 About Me
+- 🎓 Pursuing B.Tech in Computer Science Engineering at KIPM College of Engineering and Technology (CGPA: 7.87)[span_0](start_span)[span_0](end_span).
+- 🤖 Built predictive models using **Supervised Learning** and automated ML pipelines with **IBM Watson Studio (AutoAI)**[span_1](start_span)[span_1](end_span).
+- 🛠️ Skilled in **Python, Java, C, JavaScript, Data Structures,** and **CS Fundamentals**[span_2](start_span)[span_2](end_span).
+- 🎯 Seeking opportunities in Software Engineering, Machine Learning, and Data Analytics[span_3](start_span)[span_3](end_span).
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, Java, C, JavaScript[span_4](start_span)[span_4](end_span)
+- **Domains:** Data Structures, Machine Learning, Data Analytics[span_5](start_span)[span_5](end_span)
+- **Tools & Platforms:** IBM Watson Studio, AutoAI, Git, GitHub[span_6](start_span)[span_6](end_span)
+
+---
+
+### 📁 Highlighted Projects
+- **Diabetes Prediction Model:** Built a supervised ML classification model to assess diabetes risk using health metrics like glucose, BMI, and age[span_7](start_span)[span_7](end_span).
+- **AutoAI Pipeline (IBM):** Automated data preprocessing, feature engineering, model evaluation, and deployment using IBM Watson Studio API[span_8](start_span)[span_8](end_span).
+
+---
+
+### 📬 Connect with Me
+- **LinkedIn:** [linkedin.com/in/Divyanshu1947](https://linkedin.com/in/Divyanshu1947)[span_9](start_span)[span_9](end_span)
+- **Email:** diyanshusharma3131@gmail.com[span_10](start_span)[span_10](end_span)
+-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/divyanshu1947) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diyanshusharma3131@gmail.com) 
